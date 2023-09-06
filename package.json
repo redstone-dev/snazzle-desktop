@@ -1,0 +1,19 @@
+{
+  "name": "snazzle-desktop",
+  "version": "1.0.0",
+  "description": "Snazzle for Desktop",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redstone-dev/snazzle-desktop.git"
+  },
+  "author": "redstone-dev",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/redstone-dev/snazzle-desktop/issues"
+  },
+  "homepage": "https://github.com/redstone-dev/snazzle-desktop#readme"
+}
